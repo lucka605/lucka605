@@ -1,38 +1,143 @@
-Hi, I'm Luqman Deeb 👋
-Cyber Physical and Social Systems (CPS2) | AI • IoT • Robotics • Embedded & Control Systems
-I'm an M1 student in Cyber Physical and Social Systems (CPS2) at Université Jean Monnet and MINES Saint-Étienne, France, with an engineering background in Electronic Systems Engineering from HIAST, Syria.
 
-I'm interested in building intelligent systems that connect software, sensors, physical processes, and real-world users. My work spans embedded systems, robotics, feedback control, applied machine learning, and software verification.
-🔬 Areas of interest
-- Cyber-Physical Systems: sensing, actuation, embedded software, and hardware–software integration
-- AI & Machine Learning: reinforcement learning, classification, and intelligent decision-making
-- Robotics & IoT: ESP32-based systems, connected devices, and remote interaction
-- Control & Automation: system modeling, PID/LQR, MATLAB/Simulink, and experimental validation
-- Software Quality: automated testing, API validation, and performance testing
-🛠 Selected projects
-Project	What I worked on
-ESP32 / Flutter Telepresence Robot	Built a connected robot prototype integrating embedded hardware with a Flutter-based interface.
-IoT-23 Network Flow Classification	Compared a Random Forest classifier with a majority-class baseline using Zeek network-flow features in Python.
-Pneumatic Ball Control	Modeled a physical system in MATLAB/Simulink, compared PID and state-space controllers, and validated PID on a real test rig.
-Chamber Temperature Control	Worked on PT100/NTC sensing, signal conditioning, and PWM heater control with circuit simulation in OrCAD.
-Isolated Five-Capacitor Charging System	Designed and simulated an isolated flyback converter with voltage monitoring and charge cut-off.
+# Hi there, I'm Luqman Deeb 👋
 
+### 🎓 Cyber Physical and Social Systems | AI • IoT • Robotics • Embedded Systems
 
-💻 Technical toolkit
-Languages: Python · C/C++ · Java · JavaScript · Dart/Flutter
+I'm a Master's student in **Cyber Physical and Social Systems (CPS2)** at **Université Jean Monnet & MINES Saint-Étienne, France**, with an engineering background in **Electronic Systems Engineering** from HIAST, Syria.
 
-Embedded & control: ESP32 · Arduino · MATLAB/Simulink · PID · LQR · Sensors & Actuators
+I'm passionate about developing intelligent systems that connect **software, hardware, sensors, and the physical world**.
 
-Testing & engineering: Git · Selenium · Playwright · Cucumber · Postman · JMeter · API Testing · Test Automation
-🎓 Education
-- 2026–present: International Master's in Cyber Physical and Social Systems (CPS2) — Université Jean Monnet & MINES Saint-Étienne, France
-- 2015–2020: Electronic Systems Engineering — Higher Institute for Applied Sciences and Technology (HIAST), Syria
-🤝 Background & collaboration
-Alongside my CPS2 studies, I have professional experience in software QA and test automation, including testing web and mobile applications, REST APIs, and system performance. I enjoy applying that verification mindset to embedded and intelligent systems.
+My interests include Artificial Intelligence, Machine Learning, Robotics, Embedded Systems, Control Engineering, and Software Development.
 
-I'm interested in collaborating on CPS, AI/ML, robotics, embedded/IoT, and control projects.
-📫 Contact
-- 📍 Saint-Étienne, France
-- ✉️ Email me
-- 💻 GitHub projects
-Connecting intelligent software with the physical world.
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing an International Master's in **Cyber Physical and Social Systems (CPS2)**.
+- 🤖 Interested in **Robotics, Autonomous Systems, AI, and Machine Learning**.
+- 🔌 Experienced with **Embedded Systems, IoT, Sensors, and Control Systems**.
+- 🧠 Exploring **Reinforcement Learning, Intelligent Decision-Making, and Data Analysis**.
+- 🧪 Professional background in **Software Quality Assurance and Test Automation**.
+- 🌍 Based in **Saint-Étienne, France**.
+- 🤝 Open to collaborations on research and engineering projects.
+
+---
+
+## 🔬 Research & Technical Interests
+
+| Area | Focus |
+|------|-------|
+| 🤖 Robotics | Autonomous systems, navigation, intelligent control |
+| 🧠 Artificial Intelligence | Machine learning, reinforcement learning |
+| 🔌 Embedded Systems | Microcontrollers, sensors, hardware-software integration |
+| 🌐 Internet of Things | Connected devices, communication protocols |
+| ⚙️ Control Engineering | PID, LQR, system modeling and simulation |
+| 🧪 Software Engineering | Software development, verification and automated testing |
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+`Python` `C` `C++` `Java` `JavaScript` `Dart` `MATLAB`
+
+### Embedded Systems & Control
+
+`ESP32` `Arduino` `MATLAB/Simulink` `PID` `LQR` `Sensors` `PWM`
+
+### AI & Data Analysis
+
+`Machine Learning` `Reinforcement Learning` `Random Forest` `Data Analysis`
+
+### Software Development & Testing
+
+`Git` `GitHub` `Selenium` `Playwright` `Cucumber` `Postman` `JMeter` `REST APIs`
+
+---
+
+## 💻 Featured Engineering Projects
+
+### 🤖 ESP32 / Flutter Telepresence Robot
+
+Developed a telepresence robot integrating embedded hardware with a Flutter-based control interface.
+
+**Technologies:** ESP32, Flutter, Dart, Embedded Systems.
+
+### 🧠 IoT-23 Network Flow Classification
+
+Compared a Random Forest classifier against a majority-class baseline using Zeek network-flow features.
+
+**Technologies:** Python, Machine Learning, Network Traffic Analysis.
+
+### ⚙️ Pneumatic Ball Suspension & Control
+
+Modeled a pneumatic ball suspension system and compared different control approaches, including PID and state-space control.
+
+Validated PID performance on a physical experimental setup.
+
+**Technologies:** MATLAB, Simulink, PID, LQR, System Identification.
+
+### 🔌 Isolated Five-Capacitor Charging System
+
+Designed and simulated an isolated flyback converter with voltage monitoring and automatic charge cut-off.
+
+**Technologies:** Power Electronics, Circuit Design, Simulation.
+
+### 🌡️ Chamber Temperature Control
+
+Co-designed a temperature control system using PT100/NTC sensors, signal conditioning, and PWM heater control.
+
+**Technologies:** Sensors, Control Systems, OrCAD, PWM.
+
+---
+
+## 💼 Professional Experience
+
+I have professional experience in **Software Quality Assurance and Test Automation**, working on web and mobile applications.
+
+My experience includes:
+
+- Functional, regression, integration, and API testing.
+- Test automation using Selenium and Cucumber.
+- API validation using Postman.
+- Performance and load testing using Apache JMeter.
+- Defect tracking and test management using Azure DevOps.
+
+I aim to combine my software engineering and testing background with **Cyber-Physical Systems, AI, and Embedded Technologies**.
+
+---
+
+## 🎓 Education
+
+**International Master's in Cyber Physical and Social Systems (CPS2)**
+
+Université Jean Monnet & MINES Saint-Étienne, France
+
+2026 – Present
+
+**Electronic Systems Engineering**
+
+Higher Institute for Applied Sciences and Technology (HIAST), Syria
+
+2015 – 2020
+
+---
+
+## 🌍 Languages
+
+- Arabic — Native
+- English — IELTS Academic 6.5
+- French — Professional working knowledge
+
+---
+
+## 📫 Connect With Me
+
+- 📍 **Location:** Saint-Étienne, France
+- 📧 **Email:** [lqmandeeb124@gmail.com](mailto:lqmandeeb124@gmail.com)
+- 💻 **GitHub:** [github.com/lucka605](https://github.com/lucka605)
+
+---
+
+### 💡 "Connecting intelligent software with the physical world."
